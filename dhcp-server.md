@@ -10,3 +10,9 @@
 # on the Server provide ip for it 192.168.10.2  
 # then move to the services section 
 # locate DHCP then configure
+
+
+
+
+# DNS
+
